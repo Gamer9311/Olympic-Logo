@@ -1,0 +1,20 @@
+#MP
+{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjq7zo1OZgO1bSEo2I8wym7otM8Ix6wy0hDVaZvU7wms9dpCm4j5vREmOfjFN_Cuc1LA&usqp=CAU");
+    text-align: center;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: cornflowerblue;
+}
+
+#canvas
+{
+    border: 5px black solid;
+    background-color: cyan;
+}
+
+#title
+{
+    color: darkblue;
+}
